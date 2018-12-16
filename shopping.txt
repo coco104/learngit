@@ -4,4 +4,9 @@ zaixiugai
 yougailechongtumoni
 zhongzhi
 xiugai
+<<<<<<< HEAD
 sodu xiud
+=======
+sodu
+homework
+>>>>>>> 5502bd1e0fe5dd826a645433671af36dfe7a14a2
